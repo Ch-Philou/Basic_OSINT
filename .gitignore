@@ -1,0 +1,20 @@
+# Ignorez tous les logs (dossiers)
+**/Logs
+**/logs
+# Ignorez tous les logs (fichiers)
+**/*.log
+
+
+# Ignorez tous les codes compilés python
+**/*.pyc
+**/*.pyw
+
+# Ignorez tous les fichiers de paramètres
+**/params.ini
+**/params*.json
+**/Proxy*.json
+
+# Ignore les données
+**/*.html
+**/*.csv
+**/*.json
