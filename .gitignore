@@ -13,8 +13,3 @@
 **/params.ini
 **/params*.json
 **/Proxy*.json
-
-# Ignore les données
-**/*.html
-**/*.csv
-**/*.json
