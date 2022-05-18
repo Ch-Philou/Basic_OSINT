@@ -1,0 +1,584 @@
+[
+    {
+        "link": "http://app.webinspector.com/recent_detections",
+        "Valid": "2022-05-18 16:10:34",
+        "HTTP_Code": 200,
+        "Length": 38054
+    },
+    {
+        "link": "http://blocklist.greensnow.co/greensnow.txt",
+        "Valid": "2022-05-18 16:10:34",
+        "HTTP_Code": 200,
+        "Length": 67426
+    },
+    {
+        "link": "http://botscout.com/last.htm",
+        "Valid": "2022-05-18 16:10:35",
+        "HTTP_Code": 200,
+        "Length": 42903
+    },
+    {
+        "link": "http://botscout.com/last_caught_cache.htm",
+        "Valid": "2022-05-18 16:10:35",
+        "HTTP_Code": 200,
+        "Length": 30691
+    },
+    {
+        "link": "http://charles.the-haleys.org/ssh_dico_attack_hdeny_format.php/hostsdeny.txt",
+        "Valid": "2022-05-18 16:10:36",
+        "HTTP_Code": 200,
+        "Length": 1183678
+    },
+    {
+        "link": "http://cinsscore.com/list/ci-badguys.txt",
+        "Valid": "2022-05-18 16:10:37",
+        "HTTP_Code": 200,
+        "Length": 216517
+    },
+    {
+        "link": "http://cybercrime-tracker.net/all.php",
+        "Valid": "2022-05-18 16:10:37",
+        "HTTP_Code": 200,
+        "Length": 876365
+    },
+    {
+        "link": "http://cybercrime-tracker.net/ccam.php",
+        "Valid": "2022-05-18 16:10:38",
+        "HTTP_Code": 200,
+        "Length": 478832
+    },
+    {
+        "link": "http://cybercrime-tracker.net/ccpmgate.php",
+        "Valid": "2022-05-18 16:10:38",
+        "HTTP_Code": 200,
+        "Length": 57176
+    },
+    {
+        "link": "http://danger.rulez.sk/projects/bruteforceblocker/blist.php",
+        "Valid": "2022-05-18 16:10:39",
+        "HTTP_Code": 200,
+        "Length": 21450
+    },
+    {
+        "link": "http://data.netlab.360.com/feeds/dga/dga.txt",
+        "Valid": "2022-05-18 16:10:56",
+        "HTTP_Code": 200,
+        "Length": 68840111
+    },
+    {
+        "link": "http://data.netlab.360.com/feeds/mirai-scanner/scanner.list",
+        "Valid": "2022-05-18 16:10:58",
+        "HTTP_Code": 200,
+        "Length": 3297268
+    },
+    {
+        "link": "http://data.phishtank.com/data/online-valid.csv",
+        "Valid": "2022-05-18 16:10:59",
+        "HTTP_Code": 200,
+        "Length": 1502368
+    },
+    {
+        "link": "http://hosts-file.net/?s=Browse&f=2014",
+        "Valid": "2022-05-18 16:11:02",
+        "HTTP_Code": 200,
+        "Length": 228604
+    },
+    {
+        "link": "http://labs.sucuri.net/?malware",
+        "Valid": "2022-05-18 16:11:03",
+        "HTTP_Code": 200,
+        "Length": 27648
+    },
+    {
+        "link": "http://lists.blocklist.de/lists/all.txt",
+        "Valid": "2022-05-18 16:11:03",
+        "HTTP_Code": 200,
+        "Length": 291623
+    },
+    {
+        "link": "http://openphish.com/feed.txt",
+        "Valid": "2022-05-18 16:11:18",
+        "HTTP_Code": 200,
+        "Length": 29462
+    },
+    {
+        "link": "http://report.rutgers.edu/DROP/attackers",
+        "Valid": "2022-05-18 16:11:21",
+        "HTTP_Code": 200,
+        "Length": 34144
+    },
+    {
+        "link": "http://reputation.alienvault.com/reputation.data",
+        "Valid": "2022-05-18 16:11:21",
+        "HTTP_Code": 200,
+        "Length": 42506
+    },
+    {
+        "link": "http://rules.emergingthreats.net/blockrules/emerging-ciarmy.rules",
+        "Valid": "2022-05-18 16:11:22",
+        "HTTP_Code": 200,
+        "Length": 219703
+    },
+    {
+        "link": "http://rules.emergingthreats.net/blockrules/emerging-compromised.rules",
+        "Valid": "2022-05-18 16:11:22",
+        "HTTP_Code": 200,
+        "Length": 29968
+    },
+    {
+        "link": "http://rules.emergingthreats.net/fwrules/emerging-PF-CC.rules",
+        "Valid": "2022-05-18 16:11:22",
+        "HTTP_Code": 200,
+        "Length": 16638
+    },
+    {
+        "link": "http://rules.emergingthreats.net/open/suricata/rules/botcc.rules",
+        "Valid": "2022-05-18 16:11:22",
+        "HTTP_Code": 200,
+        "Length": 22259
+    },
+    {
+        "link": "http://rules.emergingthreats.net/open/suricata/rules/compromised-ips.txt",
+        "Valid": "2022-05-18 16:11:22",
+        "HTTP_Code": 200,
+        "Length": 6523
+    },
+    {
+        "link": "http://sblam.com/blacklist.txt",
+        "Valid": "2022-05-18 16:11:23",
+        "HTTP_Code": 200,
+        "Length": 119331
+    },
+    {
+        "link": "http://vmx.yourcmc.ru/BAD_HOSTS.IP4",
+        "Valid": "2022-05-18 16:11:38",
+        "HTTP_Code": 200,
+        "Length": 77434
+    },
+    {
+        "link": "http://vxvault.net/URL_List.php",
+        "Valid": "2022-05-18 16:11:38",
+        "HTTP_Code": 200,
+        "Length": 6851
+    },
+    {
+        "link": "http://vxvault.siri-urz.net/URL_List.php",
+        "Valid": "2022-05-18 16:11:39",
+        "HTTP_Code": 200,
+        "Length": 1942
+    },
+    {
+        "link": "http://vxvault.siri-urz.net/ViriList.php",
+        "Valid": "2022-05-18 16:11:39",
+        "HTTP_Code": 200,
+        "Length": 1954
+    },
+    {
+        "link": "http://www.blocklist.de/lists/apache.txt",
+        "Valid": "2022-05-18 16:11:40",
+        "HTTP_Code": 200,
+        "Length": 129464
+    },
+    {
+        "link": "http://www.blocklist.de/lists/asterisk.txt",
+        "Valid": "2022-05-18 16:11:40",
+        "HTTP_Code": 200,
+        "Length": 1828
+    },
+    {
+        "link": "http://www.blocklist.de/lists/bots.txt",
+        "Valid": "2022-05-18 16:11:40",
+        "HTTP_Code": 200,
+        "Length": 1961
+    },
+    {
+        "link": "http://www.blocklist.de/lists/courierimap.txt",
+        "Valid": "2022-05-18 16:11:40",
+        "HTTP_Code": 200,
+        "Length": 42736
+    },
+    {
+        "link": "http://www.blocklist.de/lists/courierpop3.txt",
+        "Valid": "2022-05-18 16:11:40",
+        "HTTP_Code": 200,
+        "Length": 42736
+    },
+    {
+        "link": "http://www.blocklist.de/lists/email.txt",
+        "Valid": "2022-05-18 16:11:40",
+        "HTTP_Code": 200,
+        "Length": 158479
+    },
+    {
+        "link": "http://www.blocklist.de/lists/imap.txt",
+        "Valid": "2022-05-18 16:11:40",
+        "HTTP_Code": 200,
+        "Length": 42736
+    },
+    {
+        "link": "http://www.blocklist.de/lists/pop3.txt",
+        "Valid": "2022-05-18 16:11:41",
+        "HTTP_Code": 200,
+        "Length": 42736
+    },
+    {
+        "link": "http://www.blocklist.de/lists/postfix.txt",
+        "Valid": "2022-05-18 16:11:41",
+        "HTTP_Code": 200,
+        "Length": 158479
+    },
+    {
+        "link": "http://www.blocklist.de/lists/sip.txt",
+        "Valid": "2022-05-18 16:11:41",
+        "HTTP_Code": 200,
+        "Length": 1828
+    },
+    {
+        "link": "http://www.blocklist.de/lists/ssh.txt",
+        "Valid": "2022-05-18 16:11:41",
+        "HTTP_Code": 200,
+        "Length": 111875
+    },
+    {
+        "link": "http://www.botvrij.eu/data/ioclist.url",
+        "Valid": "2022-05-18 16:11:41",
+        "HTTP_Code": 200,
+        "Length": 13555
+    },
+    {
+        "link": "http://www.ciarmy.com/list/ci-badguys.txt",
+        "Valid": "2022-05-18 16:11:43",
+        "HTTP_Code": 200,
+        "Length": 216517
+    },
+    {
+        "link": "http://www.dshield.org/ipsascii.html?limit=10000",
+        "Valid": "2022-05-18 16:11:45",
+        "HTTP_Code": 200,
+        "Length": 471503
+    },
+    {
+        "link": "http://www.joewein.net/dl/bl/dom-bl-base.txt",
+        "Valid": "2022-05-18 16:11:46",
+        "HTTP_Code": 200,
+        "Length": 1345915
+    },
+    {
+        "link": "http://www.joewein.net/dl/bl/dom-bl.txt",
+        "Valid": "2022-05-18 16:11:46",
+        "HTTP_Code": 200,
+        "Length": 10135
+    },
+    {
+        "link": "http://www.malware-traffic-analysis.net",
+        "Valid": "2022-05-18 16:11:47",
+        "HTTP_Code": 200,
+        "Length": 4079
+    },
+    {
+        "link": "http://www.malwareblacklist.com/showAllMalwareURL.php?userName=Guest&sessionID=&downloadOption=0",
+        "Valid": "2022-05-18 16:11:47",
+        "HTTP_Code": 200,
+        "Length": 1924
+    },
+    {
+        "link": "http://www.mirc.com/servers.ini",
+        "Valid": "2022-05-18 16:11:49",
+        "HTTP_Code": 200,
+        "Length": 9525
+    },
+    {
+        "link": "http://www.projecthoneypot.org/list_of_ips.php",
+        "Valid": "2022-05-18 16:11:52",
+        "HTTP_Code": 200,
+        "Length": 36576
+    },
+    {
+        "link": "http://www.spamhaus.org/drop/drop.txt",
+        "Valid": "2022-05-18 16:11:52",
+        "HTTP_Code": 200,
+        "Length": 26122
+    },
+    {
+        "link": "http://www.spamhaus.org/drop/edrop.txt",
+        "Valid": "2022-05-18 16:11:52",
+        "HTTP_Code": 200,
+        "Length": 1901
+    },
+    {
+        "link": "http://www.stopforumspam.com/downloads/listed_ip_1_all.zip",
+        "Valid": "2022-05-18 16:11:53",
+        "HTTP_Code": 200,
+        "Length": 82962
+    },
+    {
+        "link": "http://www.stopforumspam.com/downloads/toxic_ip_cidr.txt",
+        "Valid": "2022-05-18 16:11:54",
+        "HTTP_Code": 200,
+        "Length": 752
+    },
+    {
+        "link": "http://www.voipbl.org/update/",
+        "Valid": "2022-05-18 16:11:55",
+        "HTTP_Code": 200,
+        "Length": 340121
+    },
+    {
+        "link": "https://atlas.arbor.net/summary/domainlist",
+        "Valid": "2022-05-18 16:11:59",
+        "HTTP_Code": 200,
+        "Length": 309079
+    },
+    {
+        "link": "https://dataplane.org/sshclient.txt",
+        "Valid": "2022-05-18 16:12:02",
+        "HTTP_Code": 200,
+        "Length": 2303898
+    },
+    {
+        "link": "https://dataplane.org/sshpwauth.txt",
+        "Valid": "2022-05-18 16:12:05",
+        "HTTP_Code": 200,
+        "Length": 1941000
+    },
+    {
+        "link": "https://disconnect.me/lists/malvertising",
+        "Valid": "2022-05-18 16:12:06",
+        "HTTP_Code": 200,
+        "Length": 156598
+    },
+    {
+        "link": "https://disconnect.me/lists/malwarefilter",
+        "Valid": "2022-05-18 16:12:07",
+        "HTTP_Code": 200,
+        "Length": 156598
+    },
+    {
+        "link": "https://feodotracker.abuse.ch",
+        "Valid": "2022-05-18 16:12:08",
+        "HTTP_Code": 200,
+        "Length": 4512
+    },
+    {
+        "link": "https://github.com/stamparm/maltrail/blob/master/trails/static/mass_scanner.txt",
+        "Valid": "2022-05-18 16:12:09",
+        "HTTP_Code": 200,
+        "Length": 2116629
+    },
+    {
+        "link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/blob/master/list.txt",
+        "Valid": "2022-05-18 16:12:10",
+        "HTTP_Code": 200,
+        "Length": 92024
+    },
+    {
+        "link": "https://isc.sans.edu/feeds/daily_sources",
+        "Valid": "2022-05-18 16:12:28",
+        "HTTP_Code": 200,
+        "Length": 60258057
+    },
+    {
+        "link": "https://isc.sans.edu/feeds/suspiciousdomains_High.txt",
+        "Valid": "2022-05-18 16:12:28",
+        "HTTP_Code": 200,
+        "Length": 567
+    },
+    {
+        "link": "https://isc.sans.edu/feeds/suspiciousdomains_Low.txt",
+        "Valid": "2022-05-18 16:12:29",
+        "HTTP_Code": 200,
+        "Length": 569
+    },
+    {
+        "link": "https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt",
+        "Valid": "2022-05-18 16:12:29",
+        "HTTP_Code": 200,
+        "Length": 572
+    },
+    {
+        "link": "https://isc.sans.edu/feeds/topips.txt",
+        "Valid": "2022-05-18 16:12:29",
+        "HTTP_Code": 200,
+        "Length": 2255
+    },
+    {
+        "link": "https://isc.sans.edu/ipsascii.html",
+        "Valid": "2022-05-18 16:12:30",
+        "HTTP_Code": 200,
+        "Length": 5666
+    },
+    {
+        "link": "https://malsilo.gitlab.io/feeds/dumps/url_list.txt",
+        "Valid": "2022-05-18 16:12:32",
+        "HTTP_Code": 200,
+        "Length": 37689
+    },
+    {
+        "link": "https://myip.ms/files/blacklist/htaccess/latest_blacklist.txt",
+        "Valid": "2022-05-18 16:12:34",
+        "HTTP_Code": 200,
+        "Length": 16968
+    },
+    {
+        "link": "https://paste.cryptolaemus.com/feed.xml",
+        "Valid": "2022-05-18 16:12:37",
+        "HTTP_Code": 200,
+        "Length": 8334085
+    },
+    {
+        "link": "https://raw.githubusercontent.com/botherder/targetedthreats/master/targetedthreats.csv",
+        "Valid": "2022-05-18 16:12:38",
+        "HTTP_Code": 200,
+        "Length": 468327
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bitcoin_nodes_1d.ipset",
+        "Valid": "2022-05-18 16:12:38",
+        "HTTP_Code": 200,
+        "Length": 95340
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout_1d.ipset",
+        "Valid": "2022-05-18 16:12:38",
+        "HTTP_Code": 200,
+        "Length": 22877
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cruzit_web_attacks.ipset",
+        "Valid": "2022-05-18 16:12:38",
+        "HTTP_Code": 200,
+        "Length": 177111
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/malwaredomainlist.ipset",
+        "Valid": "2022-05-18 16:12:38",
+        "HTTP_Code": 200,
+        "Length": 14836
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxylists_1d.ipset",
+        "Valid": "2022-05-18 16:12:39",
+        "HTTP_Code": 200,
+        "Length": 72720
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/proxyspy_1d.ipset",
+        "Valid": "2022-05-18 16:12:39",
+        "HTTP_Code": 200,
+        "Length": 4990
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/socks_proxy_7d.ipset",
+        "Valid": "2022-05-18 16:12:39",
+        "HTTP_Code": 200,
+        "Length": 105562
+    },
+    {
+        "link": "https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/sslproxies_1d.ipset",
+        "Valid": "2022-05-18 16:12:39",
+        "HTTP_Code": 200,
+        "Length": 7030
+    },
+    {
+        "link": "https://raw.githubusercontent.com/futpib/policeman-rulesets/master/examples/simple_domains_blacklist.txt",
+        "Valid": "2022-05-18 16:12:40",
+        "HTTP_Code": 200,
+        "Length": 528651
+    },
+    {
+        "link": "https://rules.emergingthreats.net/open/suricata/rules/emerging-dns.rules",
+        "Valid": "2022-05-18 16:12:40",
+        "HTTP_Code": 200,
+        "Length": 30405
+    },
+    {
+        "link": "https://secure.dshield.org/ipsascii.html?limit=1000",
+        "Valid": "2022-05-18 16:12:42",
+        "HTTP_Code": 200,
+        "Length": 49796
+    },
+    {
+        "link": "https://sslbl.abuse.ch",
+        "Valid": "2022-05-18 16:12:43",
+        "HTTP_Code": 200,
+        "Length": 4596
+    },
+    {
+        "link": "https://threatfeeds.io/",
+        "Valid": "2022-05-18 16:13:43",
+        "HTTP_Code": 200,
+        "Length": 45660
+    },
+    {
+        "link": "https://urlhaus.abuse.ch/downloads/csv/",
+        "Valid": "2022-05-18 16:14:14",
+        "HTTP_Code": 200,
+        "Length": 3717255
+    },
+    {
+        "link": "https://www.circl.lu/doc/misp/feed-osint/",
+        "Valid": "2022-05-18 16:15:32",
+        "HTTP_Code": 200,
+        "Length": 380617
+    },
+    {
+        "link": "https://www.maxmind.com/en/anonymous_proxies",
+        "Valid": "2022-05-18 16:15:34",
+        "HTTP_Code": 200,
+        "Length": 74161
+    },
+    {
+        "link": "https://www.maxmind.com/en/high-risk-ip-sample-list",
+        "Valid": "2022-05-18 16:15:34",
+        "HTTP_Code": 200,
+        "Length": 74161
+    },
+    {
+        "link": "https://www.turris.cz/greylist-data/greylist-latest.csv",
+        "Valid": "2022-05-18 16:16:37",
+        "HTTP_Code": 200,
+        "Length": 644
+    },
+    {
+        "link": "http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt",
+        "Valid": "2022-05-18 16:16:39",
+        "HTTP_Code": 200,
+        "Length": 23950
+    },
+    {
+        "link": "http://rules.emergingthreats.net/blockrules/compromised-ips.txt",
+        "Valid": "2022-05-18 16:16:39",
+        "HTTP_Code": 200,
+        "Length": 6523
+    },
+    {
+        "link": "https://sslbl.abuse.ch/blacklist/sslipblacklist.csv",
+        "Valid": "2022-05-18 16:16:39",
+        "HTTP_Code": 200,
+        "Length": 2104
+    },
+    {
+        "link": "https://reputation.alienvault.com/reputation.generic",
+        "Valid": "2022-05-18 16:16:40",
+        "HTTP_Code": 200,
+        "Length": 40171
+    },
+    {
+        "link": "https://lists.blocklist.de/lists/all.txt",
+        "Valid": "2022-05-18 16:17:01",
+        "HTTP_Code": 200,
+        "Length": 291228
+    },
+    {
+        "link": "http://www.darklist.de/raw.php",
+        "Valid": "2022-05-18 16:17:02",
+        "HTTP_Code": 200,
+        "Length": 76005
+    },
+    {
+        "link": "https://openphish.com/feed.txt",
+        "Valid": "2022-05-18 16:17:02",
+        "HTTP_Code": 200,
+        "Length": 29462
+    }
+]
