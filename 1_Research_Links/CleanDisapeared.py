@@ -4,10 +4,11 @@
 import json
 import sys,os
 import codecs
-import requests
+import requests, socket
 import datetime
 
 
+ProxyFile = '..'+os.sep+'Proxy.json'
 
 def CheckAlive(
         FileIn="Data.json",     # JSON ToCheck
@@ -18,8 +19,8 @@ def CheckAlive(
     data = json.load(codecs.open("."+os.sep+FileIn,"r","utf-8"))
     One_session = requests.session()
     #We load Proxy if there is some Proxy.json...
-    if os.path.exists('..'+os.sep+'Proxy.json'):
-        One_session.proxies=json.load(codecs.open('Proxy.json','r','utf-8'))
+    if os.path.exists(ProxyFile):
+        One_session.proxies=json.load(codecs.open(ProxyFile,'r','utf-8'))
         One_session.verify = False
 
     Sec_num=0
@@ -40,7 +41,7 @@ def CheckAlive(
                         # Retreiving Domain's IP address
                         try:
                             Domain = one_url.split("/")[2]
-                            # print(str(Domain)+" > "+socket.gethostbyname(Domain))
+                            print(str(Domain)+" > "+socket.gethostbyname(Domain))
                         except Exception as inst:
                             Is_OK = False
                 
@@ -64,7 +65,7 @@ def CheckAlive(
         for one_ref in ref_to_delete:
             data[oneSection].pop(one_ref)
 
-    json.dump(data, codecs.open("."+os.sep+"Data_temp.json","w","utf-8"),indent=4)
+    json.dump(data, codecs.open("."+os.sep+"Data_Clean_<DATE>.json".replace("<DATE>",datetime.datetime.now().strftime("%Y-%m-%d")),"w","utf-8"),indent=4)
 
     if len(FileSave)>1:
         FileSave = FileSave.replace("<DATE>",datetime.datetime.now().strftime("%Y-%m-%d"))
@@ -74,13 +75,14 @@ def CheckAlive(
         os.remove("."+os.sep+FileIn)
     except Exception as inst:
         pass
-    #Finally we our temp file to original file place
-    os.rename("."+os.sep+"Data_temp.json","."+os.sep+FileIn)
+    
+	#Finally we our temp file to original file place
+    # os.rename("."+os.sep+"Data_temp.json","."+os.sep+FileIn)
 
     return "."+os.sep+FileIn
 
 if __name__ == "__main__":
-	newfile = CheckAlive("Data.json","Data_old_<DATE>.json")
+	newfile = CheckAlive("Data.json","Data_Full_<DATE>.json")
 	try:
 		pass
 	except Exception as inst:
