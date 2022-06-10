@@ -18,3 +18,7 @@ Knowning is something is reported as normal/cleaned/stranged/dangerous/unknown i
 If you work with AWS knowning it's a AWS IP can help you lower the alert, or increase it depends... Find here some tricks to <br>
 <a href="4_Identify">Identify</a>
 <hr>
+<h2 style="color:#00c2ab;font-weight:bold;font-size:19Px;">CVE Tool</h2>
+CVE are based on CPE, but it 's a bit messy, this makes easy to read csv.<br>
+<a href="5_CVE_Tools">CVE Tool</a>
+<hr>

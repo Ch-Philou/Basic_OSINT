@@ -13,3 +13,6 @@
 **/params.ini
 **/params*.json
 **/Proxy*.json
+
+# Specifica File to not spoil search
+OSINT_Handbook_2020.pdf
